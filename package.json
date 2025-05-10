@@ -5,11 +5,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "crop-svg": "node scripts/crop-svg.js",
-    "remove-svg": "node scripts/remove-svg.js"
+    "remove-svg": "node scripts/remove-svg-paths.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "jsdom": "^26.1.0"
